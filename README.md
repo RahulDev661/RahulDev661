@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Website full Development in Ayurveda <br>👯     I’m looking to collaborate on IoT & Robotics projects  <br>🤝 I’m looking for help with AI integration in robotics and real-time systems  <br>🌱 I’m currently learning Machine Learning, Data Science & Advanced Automation  <br>💬 Ask me about Python, , Robotics, and Project Development  <br>⚡ Fun fact: I love tech, cars, and turning ideas into real-world projects 🚀
+🔭 I’m currently working on Website full Development in Ayurveda App <br>👯     I’m looking to collaborate onhelp on advance methods and Ways of Medication Specialist  <br>🤝 I’m looking for help with AI integration in real-time systems  <br>🌱 I’m currently learning Machine Learning, Data Science & Advanced Automation  <br>💬 Ask me about Python, , Robotics, and Project Development  <br>⚡ Fun fact: I love tech, cars, and turning ideas into real-world projects 🚀
 
 
 ## 🌐 Socials:
